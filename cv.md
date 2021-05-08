@@ -19,6 +19,9 @@ Basics:
 * SQL
 * Windows Forms
 * WPF
+* HTML
+* CSS
+* JS
 
 ### Experience:
 I didn't do any big projects. But I did some small tasks.
